@@ -6,7 +6,7 @@ void sortArray(int unsortedArray[], int size);
 int main()
 {
 
-    int unsortedArray[] = {2, 8, 1, 3, 6, 7, 5, 10, 99, -100, -12, -145};
+    int unsortedArray[] = {23, 12, 9, -3, 89, 54};
 
     int size = sizeof(unsortedArray) / sizeof(int);
 
