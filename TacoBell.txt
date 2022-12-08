@@ -1,0 +1,4 @@
+Tacos|Flamin's Hot Doritos Locos Taco|Seasoned Beef, Cheese, Lettuce
+Tacos|Flamin's Hot Doritos Locos Tacos Supreme|Seasoned Beef, Cheese, Lettuce, Tomatoes, Sour Cream
+Burritos|Loaded Tacos Grande Burrito|Seasoned Beef, Cheese, Lettuce, Red Strips, Sour Cream
+Banh Xeo|Hell's Hot Supreme Spicy Jesus Crunchy Plus Plus|Cheese, Lettuce, Cheese, Lettuce
