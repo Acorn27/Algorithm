@@ -70,6 +70,8 @@ int main(int argc, char *argv[])
         Menu = realloc(Menu, sizeof(TACOBELL)*(++count+1));
     }
 
+
+    
     for (int i = 0; i < count; i++)
     {
         printf("Category: %s \nName: %s\nWhat is included: %s\n", Menu[i].categories, Menu[i].name, Menu[i].whatisincluded);
@@ -77,6 +79,10 @@ int main(int argc, char *argv[])
         free(Menu[i].name);
         free(Menu[i].whatisincluded);
     }
+    
+    free(Menu);
+
+    fclose(TacoFile);
 
     return 0;
 }
